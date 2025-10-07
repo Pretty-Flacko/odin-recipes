@@ -1,0 +1,14 @@
+div {
+    background-color: rgb(105, 105, 255);
+    margin: 0 auto;
+    width: 700px;
+    padding: 10px;
+    color: white;
+}
+h1 {
+    margin: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
